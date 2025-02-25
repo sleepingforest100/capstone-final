@@ -1,0 +1,12 @@
+Simple Random Sampling (SRS) Results:
+Mean (SRS): 50.6
+Standard Error (SRS): 6.89
+95% Confidence Interval (SRS): (36.55, 64.65)
+
+Stratified Random Sampling (Stratified RS) Results:
+Stratum Weights (Wh): {1: 0.25, 2: 0.25, 3: 0.25, 4: 0.25}
+Mean (Stratified RS): 50.6
+Standard Error (Stratified RS): 6.58
+d-value (SE_stratified / SE_SRS): 0.96
+d-squared: 0.91
+Neff (Effective Sample Size): 17.53
